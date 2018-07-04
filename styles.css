@@ -1,0 +1,13 @@
+p {
+    color: green;
+}
+p.par1 {
+    font-size: 120%;
+}
+
+li {
+    color: blue;
+}
+p strong {
+    background-color: aquamarine;
+}
